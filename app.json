@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "TypeProject",
+    "entryPoint": "./app/tabs/index.tsx",
     "slug": "TypeProject",
     "version": "1.0.0",
     "orientation": "portrait",
